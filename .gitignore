@@ -1,0 +1,13 @@
+# Ignore generated files
+_site
+
+# Ignore cache files
+.sass-cache
+.asset-cache
+.jekyll-metadata
+
+# Ignore editor swap files
+*.sw*
+
+# Ignore other stuffs
+Gemfile.lock
