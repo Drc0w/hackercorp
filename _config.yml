@@ -19,8 +19,7 @@ assets:
   dirname: assets
   baseurl: /assets/
   sources:
-    - assets/images/ssao
-    - assets/images/minecraft
+    - assets/images
 gems:
   - jekyll-sitemap
   - jekyll-gist
