@@ -25,6 +25,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jekyll-assets
+  - jemoji
 
 kramdown:
   input: GFM
